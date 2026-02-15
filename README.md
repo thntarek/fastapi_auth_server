@@ -18,7 +18,7 @@ Production-ready FastAPI application with JWT authentication and PostgreSQL data
 ## Project Structure
 
 ```
-web_eng/
+fastapi_auth_server/
 ├── auth_server/
 │   ├── database/
 │   │   ├── db_config.py      # Database configuration
