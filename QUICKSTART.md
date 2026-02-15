@@ -136,7 +136,7 @@ fastapi_auth_server/
 
 ### Import Errors
 
-- Ensure all **init**.py files exist
+- Ensure all __init__.py files exist
 - Check Python path includes project root
 - Verify requirements are installed
 
